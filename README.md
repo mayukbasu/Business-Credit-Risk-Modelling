@@ -2,16 +2,24 @@
 
 
 Create new visualization in exploration
+
 Try out different models and test sizes
+
 Use all visualizations to test model (cost function, etc.)
+
 Make sure the data always outputs the same thing.
 
+
+---------
 
 We will be build a credit card fraud detection model. The goals of this notebook are the following:
 
 Show how to create a fraud detection system
+
 Explain how to deal with imbalanced datasets
+
 Use a wide variety of models to get a better understanding of which ones work better
+
 Use Semi-Supervised Classification
 
 
