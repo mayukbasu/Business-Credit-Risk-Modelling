@@ -12,7 +12,7 @@ Make sure the data always outputs the same thing.
 
 ---------
 
-We will be build a credit card fraud detection model. The goals of this notebook are the following:
+# We will be build a credit card fraud detection model. The goals of this notebook are the following:
 
 Show how to create a fraud detection system
 
@@ -23,8 +23,9 @@ Use a wide variety of models to get a better understanding of which ones work be
 Use Semi-Supervised Classification
 
 
+-----------------
 
-Table of Contents
+# Table of Contents
 
 I. Understanding Our Data
 
@@ -53,8 +54,8 @@ IV. Testing
 Testing with Logistic Regression
 Neural Networks Testing (Undersamping vs Oversamping)
 
+----------------------------
 
-
-Problem Statement:
+# Problem Statement:
 
 Credit card fraud is a problem where some of the credit card transactions turn out to be fraud. Credit card companies would like to reduce the risks of fraud in order to reduce the costs associated. Our model's aim is to try to eliminate fraudulent transactions.
