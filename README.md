@@ -21,10 +21,14 @@ Table of Contents
 I. Understanding Our Data
 
 Gather Sense of our Data
+
+
 II. Preprocessing
 
 Scaling and Distributing
 Splitting the Data
+
+
 III. Random Undersampling and Oversampling
 
 Distributing and Correlation
@@ -33,9 +37,16 @@ Dimensionality Reduction and Clustering (t-SNE)
 Classifiers
 A Deeper Look into Logistic Regression
 Oversampling with SMOTE
+
+
+
 IV. Testing
 
 Testing with Logistic Regression
 Neural Networks Testing (Undersamping vs Oversamping)
+
+
+
 Problem Statement:
+
 Credit card fraud is a problem where some of the credit card transactions turn out to be fraud. Credit card companies would like to reduce the risks of fraud in order to reduce the costs associated. Our model's aim is to try to eliminate fraudulent transactions.
