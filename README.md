@@ -13,6 +13,9 @@ Show how to create a fraud detection system
 Explain how to deal with imbalanced datasets
 Use a wide variety of models to get a better understanding of which ones work better
 Use Semi-Supervised Classification
+
+
+
 Table of Contents
 
 I. Understanding Our Data
